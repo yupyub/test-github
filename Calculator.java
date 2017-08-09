@@ -8,6 +8,7 @@ public class Calculator {
     System.out.println(sum(a,b));
     System.out.println(minus(a,b));
     System.out.println(mult(a,b));
+    System.out.println(div(a,b));
   }
 
   private static int sum(int a,int b){
