@@ -14,7 +14,14 @@ public class Calculator {
     return a+b;
   }
 
-  private static int minus(int a,int b){
+  private static int minus(int a,int b,Object GPU){
+    int result = 0;
+    if(GPU == NULL){
+      result = a-b;
+    }
+    else{
+      result = a-b;
+    }
     return a-b;
   }
 
