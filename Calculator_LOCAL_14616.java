@@ -30,7 +30,7 @@ public class Calculator {
   }
 
   private static int div(int a,int b){
-    if(b == 0){   //exception
+    if(b == 0){     //예와상황
       return 0;
     }
     return a/b;
