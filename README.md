@@ -2,7 +2,7 @@
 ## sogang open-source workshop
 
 
-https://steamuserimages-a.akamaihd.net/ugc/99476522504015364/2CE1724349401A73DD94EF8F9723D428E3F6AF2D/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside|637:358&composite-to%3D%2A%2C%2A%7C637%3A358&background-color=black 
+[https://steamuserimages-a.akamaihd.net/ugc/99476522504015364/2CE1724349401A73DD94EF8F9723D428E3F6AF2D/?interpolation=lanczos-none&output-format=jpeg&output-quality=95&fit=inside|637:358&composite-to%3D%2A%2C%2A%7C637%3A358&background-color=black]
 
 >1. 여러가지 __[git](https://github.com)__ 기능들을 사용해 본다.
 >> * __SourceTree__를 사용해 본다.
