@@ -37,6 +37,9 @@ public class Calculator {
   }
 
   private static int mod(int a,int b){
+    if(b == 0){   //exception
+      return 0;
+    }
     return a%b;
   }
 }
